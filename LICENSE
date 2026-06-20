@@ -1,0 +1,27 @@
+Copyright (c) 2026 [Akilimali , shukranimungu@gmail.com]. All rights reserved.
+
+1. GRANTS AND LICENSING
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants 
+you a non-exclusive, worldwide, non-transferable, royalty-free license to view, 
+download, compile, modify, and run the software solely for Non-Commercial Purposes.
+
+"Non-Commercial Purposes" means use solely for individual education, testing, 
+academic research, local development, or benchmarking.
+
+2. COMMERCIAL USE RESTRICTION
+Any use of the software for Commercial Purposes is strictly prohibited under this 
+license. "Commercial Purposes" includes, but is not limited to:
+  (a) Hosting the software as a paid service, SaaS platform, or managed runtime.
+  (b) Utilizing the software to process production traffic or data for a for-profit entity.
+  (c) Bundling the software into any commercial distribution or hardware platform.
+
+If you wish to use this software for Commercial Purposes, you must obtain a 
+separate, written Commercial Production License from the Licensor.
+
+3. REDISTRIBUTION
+You may redistribute copies of the source code or modifications thereof, provided 
+that you include a copy of this exact LICENSE file with all distributions and 
+do not alter this licensing restriction.
+
+4. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
